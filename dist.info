@@ -1,5 +1,5 @@
 name = "test4"
-version = "1.5"
+version = "1.6"
 
 desc  = "test bla bla"
 author = "Michal Valovic"
@@ -10,5 +10,5 @@ depends = {
 }
 
 provides = {
-	"testovaci-1.0.2"
+	"testovaci-1.1.0"
 }
