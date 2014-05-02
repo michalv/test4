@@ -9,10 +9,10 @@ depends = {
 	"lua > 5.1"
 }
 
-provides = {
-	"testovaci-1.1.0"
+conflicts = {
+	"lub"
 }
 
-conflicts = {
-	"lub-1.0.3"
+provides = {
+	"testovaci-1.1.0"
 }
